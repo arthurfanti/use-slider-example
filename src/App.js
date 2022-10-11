@@ -1,5 +1,5 @@
 import "./styles.css";
-import useSlider from "/hooks/useSlider";
+import useSlider from "./hooks/useSlider";
 
 const slides = [
   {
